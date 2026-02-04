@@ -1,5 +1,5 @@
 # 3.Add two numbers
-num1 = 2
-num2 = 4
+Num1 = 2
+Num2 = 4
 sum = num1+num2
 print(sum)
