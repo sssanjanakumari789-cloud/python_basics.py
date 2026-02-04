@@ -1,2 +1,2 @@
-name :(enter your name)
+name : input (enter your name)
 print("good morning" ,name)
